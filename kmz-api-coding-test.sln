@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kmz-api-coding-test", "kmz-api-coding-test\kmz-api-coding-test.csproj", "{E046F2D0-894B-4697-B44C-6752F83F0AC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kmz-api-coding-test.Core", "kmz-api-coding-test.Core\kmz-api-coding-test.Core.csproj", "{4A63F808-7DE8-40BE-9574-D7C6F4323462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kmz-api-coding-test.Persistence", "kmz-api-coding-test.Persistence\kmz-api-coding-test.Persistence.csproj", "{8B193220-2D95-441F-A46E-414832ADACF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E046F2D0-894B-4697-B44C-6752F83F0AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E046F2D0-894B-4697-B44C-6752F83F0AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E046F2D0-894B-4697-B44C-6752F83F0AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E046F2D0-894B-4697-B44C-6752F83F0AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A63F808-7DE8-40BE-9574-D7C6F4323462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A63F808-7DE8-40BE-9574-D7C6F4323462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A63F808-7DE8-40BE-9574-D7C6F4323462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A63F808-7DE8-40BE-9574-D7C6F4323462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B193220-2D95-441F-A46E-414832ADACF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B193220-2D95-441F-A46E-414832ADACF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B193220-2D95-441F-A46E-414832ADACF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B193220-2D95-441F-A46E-414832ADACF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C3675B2-AFAC-4782-B84C-DD64A4D5429A}
+	EndGlobalSection
+EndGlobal
